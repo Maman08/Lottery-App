@@ -34,4 +34,3 @@ contract Lottery{
 }
 
 
-// 0xF5a7a8f8C874789Cc43D1fc1914752Fa99Ec9dad
